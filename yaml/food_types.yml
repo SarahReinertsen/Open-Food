@@ -2,24 +2,202 @@
 FoodTypes:
   - Animal:
     - Meat:
-      - Beef
+      - Beef:
+        - Beef Chuck:
+          - Beef Chuck Roast
+          - Beef Chuck Steak
+          - Beef Flat Iron Steak
+          - Beef Chuck Arm Roast
+          - Beef Shoulder Medallions
+          - Beef Shoulder Roast
+          - Beef Shoulder Steak
+          - Beef Cross Rib (English Roast)
+          - Country-Style Beef Ribs
+          - Beef Shoulder Center (Ranch Steak)
+        - Beef Rib:
+          - Beef Rib Steak
+          - Beef Ribeye Roast (Prime Rib)
+          - Filet of Beef Rib
+          - Beef Ribeye Steak
+          - Beef Back Ribs
+          - Beef Rib Roast
+        - Beef Short Loin:
+          - Porterhouse Steak
+          - T-Bone Steak
+          - Beef Top Loin Steak
+          - Beef Tenderloin Roast
+          - Beef Tenderloin Steak
+          - Chateaubriand
+          - Filet Mignon  
+          - Beef Hanger Steak
+          - Beef Strip Steak
+        - Beef Sirloin:
+          - Beef Tri-Tip Steak
+          - Beef Tri-Tip Roast
+          - Beef Top Sirloin Steak
+          - Coulotte Steak
+          - Beef Filet of Sirloin
+          - Ball Tip Beef Steak
+          - Ball Tip Beef Roast
+          - Bottom Beef Sirloin Flap Meat
+        - Beef Round:
+          - Beef Rump Roast
+          - Bottom Round Beef Roast
+          - Bottom Round Beef Steak
+          - Eye of Round Beef Roast
+          - Eye of Round Beef Steak
+          - Beef Round Tip Steak
+          - Beef Round Tip Roast
+          - Beef Top Round Steak
+          - Beef Top Round London Broil
+          - Bottom Round London Broil
+        - Beef Flank
+        - Beef Short Ribs
+        - Beef Skirt Steak
+        - Beef Brisket
+        - Beef Foreshank
+        - Beef Stew
+        - Beef Mince (Ground Beef)
+        - Beef Stir-Fry
+        - Beef Kabob
+        - Beef Marrow
+        - Oxtail
+        - Beef Cheek
       - Bison
       - Goat Meat
       - Horse
-      - Lamb
+      - Lamb:
+        - Lamb Leg:
+          - Lamb Leg Roast
+          - Lamb Sirloin Chop
+          - Lamb Sirloin Roast
+          - Lamb Top Round
+          - Lamb Shank Roast
+        - Lamb Foreshank
+        - Lamb Spareribs
+        - Lam Backstrap
+        - Lamb Loin:
+          - Lamb Loin Roast
+          - Lamb Loin Chop
+          - Lamb Tenderloin
+          - Lamb Short Loin
+        - Lamb Rack:
+          - Lamb Crown Roast
+          - Lamb Rib Roast
+          - Lamb Rib Chop
+        - Lamb Shoulder:
+          - Lamb Square Cut Shoulder
+          - Lamb Shoulder Roast
+          - Lamb Blade Chop
+          - Lamb Arm Chop
+        - Lamb Neck
+        - Lamb Mince (Ground Lamb)
+        - Lamb Stew
+        - Lamb Kabobs
       - Mutton
-      - Pork
+      - Pork:
+        - Pork Shoulder (Boston Butt):
+          - Pork Blade Steak
+          - Pork Blade Boston Roast
+        - Pork Loin:
+          - Pork Blade Chop
+          - Pork Ribs
+          - Pork Top Loin Roast
+          - Pork Blade Loin
+          - Pork Rib Chop
+          - Pork Loin Chop
+          - Pork Tenderloin
+          - Pork Center Loin
+          - Pork Sirloin Chop
+          - Pork Sirloin Cutlet
+          - Pork Sirloin
+          - Pork Center Rib Roast
+          - Pork Rib End Roast
+          - Pork Sirloin Roast
+        - Pork Leg:
+          - Pork Leg Cutlets
+        - Pig's Feet
+        - Pork Spareribs
+        - Pork Picnic Shoulder:
+          - Pork Arm Steak
+          - Pork Picnic Roast
+        - Pork Hock (Shank)
+        - Pork Jowl
+        - Pork Belly
+        - Pork Mince (Ground Pork)
       - Poultry:
-        - Chicken
-        - Duck
+        - Chicken:
+          - Chicken Bones
+          - Chicken Thigh
+          - Chicken Leg
+          - Chicken Breast
+          - Chicken Wing
+          - Chicken Tenderloin
+          - Chicken Liver
+          - Chicken Heart
+          - Chicken Gizzard
+          - Chicken Feet
+          - Chicken Mince (Ground Chicken)
+        - Duck:
+          - Duck Breast
+          - Duck Fat
+          - Duck Leg
+          - Duck Liver
+          - Foie Gras
+          - Duck Gizzard
+          - Duck Heart
+          - Duck Mince (Ground Duck)
         - Goose
         - Pheasant
         - Pigeon
         - Quail
-        - Turkey
+        - Emu
+        - Ostrich
+        - Partridge
+        - Squab
+        - Cornish Game Hen
+        - Capon
+        - Guinea Fowl
+        - Turkey:
+          - Turkey Breast
+          - Turkey Leg
+          - Turkey Mince (Ground Turkey)
       - Venison
       - Elk
+      - Veal:
+        - Veal Shoulder:
+          - Veal Blade Roast
+          - Veal Blade Steak
+          - Veal Shoulder Eye Roast
+          - Veal Arm Roast
+          - Veal Arm Steak
+        - Veal Rib:
+          - Veal Short Ribs
+          - Veal Rib Roast
+          - Veal Rib Chop
+          - Veal Crown Roast
+        - Veal Sirloin:
+          - Veal Sirloin Roast
+          - Veal Sirloin Steak
+        - Veal Round:
+          - Veal Round Roast
+          - Veal Round Steak
+          - Veal Leg Cutlet
+        - Veal Loin:
+          - Veal Loin Roast
+          - Veal Butterfly Chop
+          - Veal Loin Chop
+          - Veal Kidney Chop
+        - Veal Riblet
+        - Veal Breast Roast
+        - Veal Shank
+        - Veal Crosscut Shank (Osso Bucco)
+        - Veal Mince (Ground Veal)
       - Moose
+      - Kangaroo
+      - Camel
+      - Rabbit
+      - Wild Boar
       - Seafood:
         - Fish:
           - Salmon:
@@ -191,6 +369,7 @@ FoodTypes:
       - Yogurt
       - Cream
       - Creme Fraiche
+      - Butter
     - Eggs:
       - Chicken Eggs
       - Duck Eggs
@@ -288,6 +467,8 @@ FoodTypes:
       - Cantaloupe
       - Cherry
       - Chokeberry
+      - Citron (Buddha's Hand)
+      - Clementine
       - Cranberry
       - Currant
       - Date
@@ -296,19 +477,38 @@ FoodTypes:
         - Black Mission Fig
       - Gooseberry
       - Grape
+      - Grapefruit:
+        - Pink Grapefruit
+        - Ruby Red Grapefruit
+        - White Grapefruit
       - Greengage
       - Honeydew Melon
       - Huckleberry
       - Kiwi
-      - Lemon
-      - Lime
+      - Kumquat
+      - Lemon:
+        - Eureka Lemon
+        - Meyer Lemon
+      - Lime:
+        - Key Lime
+        - Tahitian Lime 
+        - Persian Lime
+        - Kaffir Lime
+        - Egyptian Lime
+        - Australian Wild Lime
+        - Finger Lime
       - Loganberry
       - Loquat
-      - Mandarine
+      - Mandarine:
+        - Satsuma Mandarin
       - Mango
       - Melon
       - Nectarine
-      - Orange
+      - Orange:
+        - Navel Orange:
+          - Cara Cara Orange
+        - Moro (Blood) Orange
+        - Valencia Orange
       - Passionfruit
       - Peach
       - Pear
@@ -323,6 +523,7 @@ FoodTypes:
       - Salmonberry
       - Saskatoon Berry
       - Strawberry
+      - Tangelo
       - Tangerine
       - Watermelon
     - Grasses:
@@ -341,6 +542,16 @@ FoodTypes:
           - Brown Rice
           - Basmati Rice
           - Jasmine Rice
+          - Arborio Rice
+          - Bomba Rice
+          - Calasparra Rice
+          - Himalyan Red Rice
+          - Sri Lankan Red Rice
+          - Forbidden Rice
+          - Japanese Rice:
+            - Koshihikari Rice
+          - Carnaroli Rice
+          - Sticky Rice
         - Rye
         - Sorghum
         - Teff
@@ -404,6 +615,7 @@ FoodTypes:
       - Broadleaf Arrowhead
       - Broccoli
       - Broccoli Romanesco
+      - Broccolini
       - Brussels Sprout
       - Cabbage
       - Cactus
@@ -683,11 +895,45 @@ FoodTypes:
         - Pretzel Salt
         - Rock Salt
         - Seasoned Salt
-    - Sugar
+    - Sugar:
+      - White Sugar
+      - Vanilla Sugar
+      - Brown Sugar
+      - Jaggery
+      - Palm Sugar
+      - Raw Sugar
+      - Liquid Glucose
+      - Corn Syrup
+      - Trimoline
   - Processed:
     - Bread
     - Flour:
         - 00 Flour
+        - Pastry Flour:
+          - Whole Wheat Pastry Flour
+          - White Pastry Flour
+        - Cake Flour
+        - Whole Wheat Flour
+        - Bread (High Gluten) Flour
+        - Spelt Flour
+        - White Rice Flour
+        - Chickpea Flour (Besan)
+        - Atta Flour
+        - Buckwheat Flour
+        - Brown Rice Flour
+        - Tapioca Flour
+        - Chestnut Flour
+        - Corn Flour:
+          - Maize (Corn) Flour
+          - Masa Harina
+          - Cornstarch
+        - Potato Flour
+        - Potato Starch
+        - Rye Flour
+        - Soy Flour
+        - Arrowroot
+        - Quinoa Flour
+        - Semolina
     - Pastry:
         - Pie
         - Cookie
@@ -711,6 +957,23 @@ FoodTypes:
         - Sauce
         - Soup
         - Tapenade
+        - Spread:
+          - Apple Butter
+          - Nut or Seed Butter:
+            - Peanut Butter
+            - Almond Butter
+            - Hazlenut Butter
+            - Pistachio Butter
+            - Cashew Butter
+            - Macadamia Butter
+            - Tahini
+            - Pumpkin Seed Butter
+        - Syrup
+          - Date Syrup
+          - Molasses
+          - Pomegranate Molasses
+          - Rose Syrup (Rose Water)
+          - Orange Blossom Syrup (Orange Water)
     - Compound:
         - Granola
         - Sandwich
@@ -728,12 +991,94 @@ FoodTypes:
         - Avocado Oil
         - Canola Oil
         - Olive Oil
+        - Hazelnut Oil
+        - Walnut Oil
+        - Peanut Oil
+        - Pumpkin Seed Oil
+        - Sesame Oil
+        - Chili Oil
+        - Grapeseed Oil
+        - Soybean Oil
+        - Coconut Oil
+        - Mustard Seed Oil
+        - Palm Oil
+        - Almond Oil
+        - Cashew Oil
+        - Macadamia Oil
+        - Pistachio Oil
+        - Pine Nut Oil
+        - Pecan Oil
+        - Lobster Oil
+        - Lemon Oil
+        - Orange Oil
+        - Cocoa Butter
+        - Hemp Oil
+        - Rice Bran Oil
+        - Truffle Oil
     - Cured Meat:
         - Guanciale
         - Pancetta
         - Bacon
-        - Prosciutto
+        - Prosciutto:
+          - Prosciutto crudo
+          - Prosciutto cotto
         - Salumi
+        - Speck
+        - Lardo
+        - Culatello
+        - Ciccioli
+        - Cotechino
+        - Wurstel
+        - Zampone
+        - Coppa
+        - Caprocollo
+        - Sppressata
+        - Chorizo:
+          - Spanish Chorizo (dry)
+          - Mexican Chorizo (raw)
+        - Spanish Morcilla
+        - Jamon Iberico
+        - Jamon Serrano
+        - Spanish Butifarra
+        - Spanish Cecina
+        - Spanish Lomo
+        - Spanish Salchichon
+        - Confit
+        - Pate
+        - Torchon
+        - Terrine
+        - Rillette
+        - Sausage:
+          - Hot dog
+          - Bratwurst
+          - Liver sausage
+          - Braunschweiger
+          - Kielbasa
+          - Mortadella
+          - Boerewors
+          - Italian sausage
+          - Breakfast sausage
+          - Bangers (English Pork Sausage)
+          - Salami
+          - Summer sausage
+          - Merguez sausage
+          - Andouille sausage
+          - Black pudding (Blood Sausage)
+          - White pudding
+          - Knockwurst
+          - Bockwurst
+          - Ridswurst
+          - Saucisson
+          - Droe wors
+          - Sucuk
+          - Chinese Lap Cheong
+          - Korean Sundae sausage
+          - Kransky (Polish sausage)
+          - Linguica (Portuguese sausage)
+          - Cabanossi
+        - Dried meat:
+          - Jerky
+          - Biltong
     - Confectionary:
         - Caramel
         - Chocolate Truffle
